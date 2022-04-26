@@ -1,0 +1,9 @@
+name,color,estaciones_adyacentes
+A,w,B
+B,w,"A,C"
+C,w,"B,D,G"
+D,w,"C,E"
+G,g,"C,H"
+E,w,"D,F"
+H,r,"G,I"
+I,g,"H,F"

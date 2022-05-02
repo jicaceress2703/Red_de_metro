@@ -1,4 +1,4 @@
-name,color,estaciones_adyacentes
+nombre,color,estaciones_adyacentes
 A,w,B
 B,w,"A,C"
 C,w,"B,D,G"
